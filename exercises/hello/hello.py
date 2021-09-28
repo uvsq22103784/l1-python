@@ -1,2 +1,2 @@
 msg = ""
-print()
+print("toto")

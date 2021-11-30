@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #temps[0] : jours, temps[1]: heures, temps[2]: minutes, temps[3]: secondes
 
 def tempsEnSeconde(temps):
@@ -25,3 +26,6 @@ def secondeEnTemps(seconde):
     
 temps = secondeEnTemps(100000)
 print(temps[0],"jours",temps[1],"heures",temps[2],"minutes",temps[3],"secondes")
+=======
+
+>>>>>>> 795a1f4ef2ede7d4f2a5bed335153e218930573b
